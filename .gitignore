@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+.idea/
+
+node_modules/
+
+.vagrant
+.cache
+tmp/
+.npm
+.bash_history
+npm-debug.log
+
+
+log.log
