@@ -1,9 +1,8 @@
 #!/bin/sh
 
 #Update distribution
-sudo apt-get upgrade -y
 sudo apt-get update -y
-
+sudo apt-get upgrade -y
 
 #Software
 sudo apt-get install -y git
